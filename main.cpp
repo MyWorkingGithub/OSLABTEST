@@ -115,6 +115,7 @@ int main()
             cout << "(" << move.first << ", " << move.second << ")" << endl;
         }
     }
+    std::cout<<"Thanks for using The Chomp Solver\n";
 
     return 0;
 }
